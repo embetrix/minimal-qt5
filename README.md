@@ -1,0 +1,1 @@
+# minimal-qt5
